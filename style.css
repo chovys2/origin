@@ -2,4 +2,10 @@ body {
   width: 720px;
   font-weight: 200;
   border-inline-start: cadetblue;
+  background-color: bisque;
+}
+body:hover {
+  color: aliceblue;
+  background-color: aliceblue;
+  transform: scale(180px);
 }
